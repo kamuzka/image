@@ -154,7 +154,7 @@ class SecondaryAccount {
                 channelId: channelId,
                 guildId: guildId,
                 adapterCreator: guild.voiceAdapterCreator,
-                selfDeaf: true,
+                selfDeaf: false,
                 selfMute: true
             });
 
